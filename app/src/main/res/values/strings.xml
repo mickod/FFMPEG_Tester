@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FFMPEG Tester</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">ffmpeg Wrapper tester</string>
+    <string name="about_text">This app tests that the Android ffmpeg wrapper libarry
+        is workign as expected.
+
+        The App is designed to test the latest stable release of the Android ffmpeg wrapper libarry.
+    </string>
+    <string name="action_about">About</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
